@@ -1,0 +1,270 @@
+1598029455619	geckodriver	INFO	Listening on 127.0.0.1:58497
+1598029455655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIF4PFd"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598029467326	Marionette	INFO	Listening on port 42513
+1598029467596	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:12227): GLib-GObject-WARNING **: 14:05:21.293: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb204d2ba10' of type 'MaiAtkType1'
+
+(firefox:12227): GLib-GObject-WARNING **: 14:05:21.294: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb204d2b100' of type 'MaiAtkType21'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://webmail-seguro.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://webmail-seguro.com.br"
+
+(firefox:12227): GLib-GObject-WARNING **: 14:05:41.537: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb1e32101f0' of type 'MaiAtkType139'
+
+(firefox:12227): GLib-GObject-WARNING **: 14:05:41.537: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb1e3210240' of type 'MaiAtkType139'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://webmail-seguro.com.br"
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+1598030245273	geckodriver	INFO	Listening on 127.0.0.1:33889
+1598030245278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerGExAV"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598030252768	Marionette	INFO	Listening on port 42441
+1598030252798	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:13426): GLib-GObject-WARNING **: 14:18:40.154: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f0be207e1f0' of type 'MaiAtkType139'
+
+(firefox:13426): GLib-GObject-WARNING **: 14:18:40.154: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f0be207e510' of type 'MaiAtkType139'
+
+(firefox:13426): GLib-GObject-WARNING **: 14:19:27.283: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f0bceb543d0' of type 'MaiAtkType13b'
+
+(firefox:13426): GLib-GObject-WARNING **: 14:19:35.989: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f0be1c7c790' of type 'MaiAtkType139'
+
+(firefox:13426): GLib-GObject-WARNING **: 14:19:35.989: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f0be1c7c8d0' of type 'MaiAtkType139'
+
+(firefox:13426): GLib-GObject-WARNING **: 14:20:10.150: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f0be40cfbf0' of type 'MaiAtkType139'
+
+(firefox:13426): GLib-GObject-WARNING **: 14:20:10.150: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f0be40cfe20' of type 'MaiAtkType139'
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1598030511887	Marionette	INFO	Stopped listening on port 42441
+console.error: "Error writing request: getGrids"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+JavaScript error: resource://devtools/server/actors/highlighters.js, line 751: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.isDeadWrapper]
+JavaScript error: resource://devtools/server/actors/highlighters/utils/markup.js, line 272: TypeError: this.highlighterEnv is null
+JavaScript error: resource://devtools/server/actors/inspector/walker.js, line 582: TypeError: this._refMap is null
+
+(firefox:12227): GLib-GObject-WARNING **: 14:23:55.959: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb1e2aa4740' of type 'MaiAtkType139'
+
+(firefox:12227): GLib-GObject-WARNING **: 14:23:55.959: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb1e2aa4790' of type 'MaiAtkType139'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://webmail-seguro.com.br"
+
+(firefox:12227): GLib-GObject-WARNING **: 14:25:10.074: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb1e164ee70' of type 'MaiAtkType13b'
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+
+(firefox:12227): GLib-GObject-WARNING **: 14:27:03.888: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb1e222f470' of type 'MaiAtkType139'
+
+(firefox:12227): GLib-GObject-WARNING **: 14:27:22.638: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb1e139b290' of type 'MaiAtkType139'
+
+(firefox:12227): GLib-GObject-WARNING **: 14:34:04.570: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb1df34c5b0' of type 'MaiAtkType13b'
+1598031520283	geckodriver	INFO	Listening on 127.0.0.1:59237
+1598031520288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4mdiTk"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598031528896	Marionette	INFO	Listening on port 35509
+1598031528921	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:15678): GLib-GObject-WARNING **: 14:41:31.595: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7ff556271880' of type 'MaiAtkType139'
+
+(firefox:15678): GLib-GObject-WARNING **: 14:41:31.595: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7ff556271ba0' of type 'MaiAtkType139'
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:587:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1893: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1893: TypeError: can't access dead object
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1598031903127	Marionette	INFO	Stopped listening on port 35509
+1598031903172	geckodriver	INFO	Listening on 127.0.0.1:48615
+1598031903177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile362CGQ"
+1598031903800	Marionette	INFO	Stopped listening on port 42513
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598031910114	Marionette	INFO	Listening on port 46431
+1598031910197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+
+(firefox:16436): GLib-GObject-WARNING **: 14:45:57.363: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f43bed404c0' of type 'MaiAtkType139'
+
+(firefox:16436): GLib-GObject-WARNING **: 14:45:57.363: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f43bed408d0' of type 'MaiAtkType139'
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1598032043552	Marionette	INFO	Stopped listening on port 46431
+1598032054673	geckodriver	INFO	Listening on 127.0.0.1:36857
+1598032054678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile35Pdwg"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598032061334	Marionette	INFO	Listening on port 39943
+1598032061403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+
+(firefox:16893): GLib-GObject-WARNING **: 14:48:17.777: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f0089b215b0' of type 'MaiAtkType13b'
+
+(firefox:16893): GLib-GObject-WARNING **: 14:48:31.931: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f006c9136f0' of type 'MaiAtkType139'
+
+(firefox:16893): GLib-GObject-WARNING **: 14:48:31.931: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f006c9132e0' of type 'MaiAtkType139'
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1598032281985	Marionette	INFO	Stopped listening on port 39943
+1598032292647	geckodriver	INFO	Listening on 127.0.0.1:46019
+1598032292653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb22pm5"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598032299278	Marionette	INFO	Listening on port 35853
+1598032299369	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:17473): GLib-GObject-WARNING **: 14:52:14.409: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8a9e4b5060' of type 'MaiAtkType13b'
+
+(firefox:17473): GLib-GObject-WARNING **: 14:52:59.982: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8a99a94600' of type 'MaiAtkType139'
+
+(firefox:17473): GLib-GObject-WARNING **: 14:52:59.982: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8a99a94470' of type 'MaiAtkType139'
+
+(firefox:17473): GLib-GObject-WARNING **: 14:53:01.998: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8a8c7d65b0' of type 'MaiAtkType139'
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1598033657564	geckodriver	INFO	Listening on 127.0.0.1:56885
+1598033657569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev3iabF"
+1598033657863	Marionette	INFO	Stopped listening on port 35853
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598033663689	Marionette	INFO	Listening on port 45069
+1598033663790	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:19259): GLib-GObject-WARNING **: 15:15:02.166: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fd4bdb5e330' of type 'MaiAtkType13b'
+1598033773247	geckodriver	INFO	Listening on 127.0.0.1:38211
+1598033773252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN2y0SG"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598033779254	Marionette	INFO	Listening on port 38895
+1598033779270	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:19615): GLib-GObject-WARNING **: 15:16:54.679: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8351d471f0' of type 'MaiAtkType13b'
+1598034038333	geckodriver	INFO	Listening on 127.0.0.1:57615
+1598034038338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJLJZB0"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598034045916	Marionette	INFO	Listening on port 36553
+1598034045961	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:20164): GLib-GObject-WARNING **: 15:21:23.058: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb64a7fda60' of type 'MaiAtkType13b'
+
+(firefox:20164): GLib-GObject-WARNING **: 15:22:08.386: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb6407659c0' of type 'MaiAtkType139'
+
+(firefox:20164): GLib-GObject-WARNING **: 15:22:08.386: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb640765510' of type 'MaiAtkType139'
+
+(firefox:20164): GLib-GObject-WARNING **: 15:23:01.861: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb62c02e4c0' of type 'MaiAtkType139'
+console.error: (new TypeError("store is null", "resource://devtools/client/webconsole/webconsole-wrapper.js", 239))
+TypeError: store is null: dispatchSplitConsoleCloseButtonToggle@resource://devtools/client/webconsole/webconsole-wrapper.js:239:5
+_onChangeSplitConsoleState@resource://devtools/client/webconsole/webconsole-ui.js:581:18
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+selectTool/<@resource://devtools/client/framework/toolbox.js:2726:12
+
+
+(firefox:20164): GLib-GObject-WARNING **: 15:25:40.247: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb62becfba0' of type 'MaiAtkType139'
+
+(firefox:20164): GLib-GObject-WARNING **: 15:25:56.373: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fb62bb79ec0' of type 'MaiAtkType139'
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+1598034490778	Marionette	INFO	Stopped listening on port 36553
+
+(firefox:19615): GLib-GObject-WARNING **: 15:29:02.388: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8344cc42e0' of type 'MaiAtkType139'
+
+(firefox:19615): GLib-GObject-WARNING **: 15:29:02.388: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8344cc45b0' of type 'MaiAtkType139'
+1598034595901	geckodriver	INFO	Listening on 127.0.0.1:36963
+1598034595925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXGJ9dp"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598034606930	Marionette	INFO	Listening on port 45461
+1598034606961	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:21187): GLib-GObject-WARNING **: 15:30:44.931: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fcd6b719600' of type 'MaiAtkType13b'
+
+(firefox:21187): GLib-GObject-WARNING **: 15:31:23.293: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fcd5dbc6b50' of type 'MaiAtkType139'
+
+(firefox:21187): GLib-GObject-WARNING **: 15:31:23.293: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fcd5dbc6ba0' of type 'MaiAtkType139'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1013:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1013:5)", "resource://devtools/shared/protocol/Front.js", 323))
+1598034757569	geckodriver	INFO	Listening on 127.0.0.1:48359
+1598034757575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOaQPQf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1598034767818	Marionette	INFO	Listening on port 34197
+1598034767910	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:21617): GLib-GObject-WARNING **: 15:33:29.043: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8f549020b0' of type 'MaiAtkType13b'
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1013:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1013:5)", "resource://devtools/shared/protocol/Front.js", 323))
+
+(firefox:21617): GLib-GObject-WARNING **: 15:33:55.920: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8f52455a10' of type 'MaiAtkType139'
+
+(firefox:21617): GLib-GObject-WARNING **: 15:33:55.920: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8f524550b0' of type 'MaiAtkType139'
+1598035009137	geckodriver	INFO	Listening on 127.0.0.1:59421
+1598035009171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletJwQRB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598035017504	Marionette	INFO	Listening on port 32981
+1598035017606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598035107432	geckodriver	INFO	Listening on 127.0.0.1:45489
+1598035107437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileooat5c"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598035116331	Marionette	INFO	Listening on port 40085
+1598035116365	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:22533): GLib-GObject-WARNING **: 15:39:29.338: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fdd30c4da10' of type 'MaiAtkType13b'
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1013:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1013:5)", "resource://devtools/shared/protocol/Front.js", 323))
+
+(firefox:22533): GLib-GObject-WARNING **: 15:40:07.526: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fdd2f3dc5b0' of type 'MaiAtkType139'
+
+(firefox:22533): GLib-GObject-WARNING **: 15:40:07.526: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fdd2f3dc880' of type 'MaiAtkType139'
+1598035317863	geckodriver	INFO	Listening on 127.0.0.1:53999
+1598035317869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev4sjsE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598035328972	Marionette	INFO	Listening on port 36319
+1598035329000	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(firefox:23056): GLib-GObject-WARNING **: 15:43:03.597: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f63d7316a60' of type 'MaiAtkType13b'
